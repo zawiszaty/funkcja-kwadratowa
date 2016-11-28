@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1480344702 source:d:\users\zawisza\desktop\c++\funkcja kwadratowa\main.cpp
+	<iostream>
+	<stdio.h>
+	<cstdlib>
+	<conio.h>
+	<math.h>
+	<windows.h>
+	<winbase.h>
+
